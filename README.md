@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center"> Dulce Nahomi Bucio Rivas </h1>
+
+<p align="center">Hello, World! 🌟 I'm Dulce, a Computer Science student deeply passionate about all things STEM. My journey is one of constant evolution, as I continuously hone my programming prowess. But that's just one part of the story! I'm equally committed to kindling that same passion within our diverse community. A special focus of mine is empowering women, amplifying their presence and participation in this dynamic field. 🚀
+
+Feel free to explore, collaborate, or share insights! Together, we're not just coding; we're inspiring change and innovation. 💻✨ </p>
 
 <!--
 **DulceBucio/DulceBucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
