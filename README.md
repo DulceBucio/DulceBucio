@@ -31,7 +31,7 @@ Feel free to explore, collaborate, or share insights! Together, we're not just c
 
 <h1> 🌎 Language Proficiency</h1>
 <ul> Spanish | Native </ul>
-<ul> English | B2 Certificate </ul>
+<ul> English | C1 Certificate </ul>
 <ul> French | A2 Certificate </ul>
 <ul> Japanese | Elementary Proficiency </ul>
 
