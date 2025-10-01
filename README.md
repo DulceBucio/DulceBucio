@@ -10,29 +10,49 @@
 </p>
 
 
-<p align="center">Hello, World! 🌟 I'm Dulce, a Computer Science student deeply passionate about all things STEM. My journey is one of constant evolution, as I continuously hone my programming prowess. But that's just one part of the story! I'm equally committed to kindling that same passion within our diverse community. A special focus of mine is empowering women, amplifying their presence and participation in this dynamic field. 🚀
+<p align="center">Hello world! My name’s Dulce (yes, as "sweet" in spanish 🍬), and I’m a Computer Science student who loves all things STEM. I’m always learning and willing to improve my programming skills. </p>
+<p align="center"> Feel free to explore, collaborate, or share insights! </p>
 
-Feel free to explore, collaborate, or share insights! Together, we're not just coding; we're inspiring change and innovation. 💻✨ </p>
-
-<h1> 💻 Programming languages and technologies </h1>
-<div>
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<h2 align = "center"> 💻 Programming languages </h2>
+<div align = "center">
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />        
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" />
 </div>
-
-<h1> 🌎 Language Proficiency</h1>
-<ul> Spanish | Native </ul>
-<ul> English | C1 Certificate </ul>
-<ul> French | A2 Certificate </ul>
-<ul> Japanese | Elementary Proficiency </ul>
+<h2 align = "center"> ⚙️ Frameworks and Libraries </h2>
+<div align = "center">
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"/>
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg"/>
+</div>
+<h2 align = "center"> 🛠️ Technologies and platforms </h2>
+<div align = "center">
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" />
+</div>
+<h2 align = "center"> 📊 Databases </h2>
+<div align = "center">
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
+  <img height = 40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
+</div>
+<h2 align = "center"> 🌎 Language Proficiency</h2>
+<div align="center">
+  <ul> <b>Spanish</b> | Native </ul>
+  <ul> <b>English</b> | C1 Certificate </ul>
+  <ul> <b>French</b> | A2 Certificate </ul>
+  <ul> <b>Japanese</b> | Elementary Proficiency </ul>
+</div>
 
 
